@@ -16,3 +16,8 @@ We want to develop a program to determine our future investments. We know the mo
 # factorial
 
 write a program to output the factorial of a whole number n
+
+# proble 4
+
+# quadratic equation
+write a program that solve a quadratic equation for real values
