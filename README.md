@@ -1,8 +1,9 @@
-# Mastering python with this crash course
+# A problem approch with python
 
-#Basics
-String -> methods: title(),upper(),lower(),rstrip(),lstrip().
-List -> methods: sort(),sorted(),reverse(),pop(),append(),insert(),del etc
-loops
-using input() for input
-define functions with def keyword
+# The software Development Process
+- Analyze the problem
+- Determine the specification
+- Create a design 
+- Implement design
+- Test/debug
+- Maintain the program
