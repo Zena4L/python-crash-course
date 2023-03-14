@@ -14,7 +14,7 @@ def dateConv():
     monthStr = months[int(monthStr) - 1]
 
     # output the result in the format we want
-    print("The converted date is : ",monthStr,dayStr +",",yearStr)
+    print("The converted date is : {0} {1},{2}".format(monthStr,dayStr,yearStr))
 
     # print(monthStr,dayStr,yearStr)
 
