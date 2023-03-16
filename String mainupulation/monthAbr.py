@@ -7,7 +7,7 @@ def monthAbr():
         "Jun","Jul","Aug","Sept","Oct",
         "Nov","Dec"
     ]
-    n = eval(input("Enter a Month number (1 - 12) : "))
+    n = eval(input("Enter a Month number (1 - 12) :"))
     print("The month abbreviation is : ", months[n-1] + "." )
 
 monthAbr()

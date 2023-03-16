@@ -12,3 +12,10 @@ Using python built-in ord  function, write a program that encode a text message 
 # problem 3
 
 Using python built-in chr  function, write a program that decode a text message from it ASCII values
+
+# problem 4
+
+A program to print the month abbreviation given it number
+
+# problem 5
+Modify the month abbreviation program to print a full date. eg: 3/24/2003 should output May 24,2003

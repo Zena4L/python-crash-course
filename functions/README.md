@@ -1,0 +1,4 @@
+- def is to define a function
+- Any indented line inside the function defination is part of the function body
+- """ this is a docstreing """ - treated like a comment
+- A function name needs to be call in order to use it
