@@ -14,6 +14,12 @@ def tempConv():
     f = (9/5)*c + 32
     print("Temp in celcius is : ",c,"ºC")
     print("Temp in Fahrinhiet is : ",f,"ºF") 
+
+    if(f > 90):
+        print("It's really hot outside")
+    if(f<30):
+        print("Brrrr, it's gonna be warm")
+
     print("Have a nice day")
 
 tempConv()
